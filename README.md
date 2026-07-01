@@ -11,3 +11,15 @@
 **[https://mrkolapie.com](https://mrkolapie.com)**
 
 ## 📁 File Structure
+mrkolapie.com/
+├── index.html # Main website
+├── 404.html # Custom error page
+├── CNAME # Custom domain routing
+├── README.md # This file
+├── .gitignore # Git ignore rules
+└── assets/
+├── logo-teal.png # Corporate logo (teal)
+└── logo-fire.png # Gaming edition logo (fire)
+
+## 🛠️ Technology Stack - **Frontend:** HTML5, CSS3 (Tailwind CDN), Vanilla JavaScript ES6+ - **Hosting:** GitHub Pages + Namecheap Custom Domain - **SSL:** Namecheap SSL Certificate - **Analytics:** Google Analytics 4 (IP Anonymized) - **APIs:** Google Maps, Google Tag Manager
+
