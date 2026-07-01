@@ -1,0 +1,41 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (if added later)
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Environment files — NEVER commit these
+.env
+.env.local
+.env.production
+*.env
+
+# Secrets — NEVER commit
+secrets.json
+credentials.json
+serviceAccountKey.json
+firebase-adminsdk*.json
+
+# Logs
+*.log
+logs/
+
+# Temp files
+*.tmp
+*.temp
