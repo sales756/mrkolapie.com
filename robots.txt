@@ -1,0 +1,7 @@
+# MrKolapie Pty Ltd Production Robots.txt
+User-agent: *
+Allow: /
+
+# Host & Sitemap Declarations
+Host: https://mrkolapie.com
+Sitemap: https://mrkolapie.com
