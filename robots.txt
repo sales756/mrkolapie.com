@@ -2,6 +2,10 @@
 User-agent: *
 Allow: /
 
+# Google AdMob & Search Crawlers
+User-agent: Mediapartners-Google
+Allow: /
+
 # Host & Sitemap Declarations
-Host: https://mrkolapie.com
-Sitemap: https://mrkolapie.com
+Host: mrkolapie.com
+Sitemap: https://mrkolapie.com/sitemap.xml
